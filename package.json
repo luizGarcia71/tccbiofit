@@ -1,0 +1,13 @@
+{
+  "name": "biofit-gym-crm",
+  "version": "2.0.0",
+  "description": "CRM de academia Biofit com banco de dados SQLite",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}

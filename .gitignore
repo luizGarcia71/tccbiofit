@@ -1,0 +1,8 @@
+# Dados da academia: nunca suba para o GitHub
+dados/
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+.DS_Store
+.env
